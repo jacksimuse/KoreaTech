@@ -1,0 +1,11 @@
+C:\Users\805-강사\Desktop\PCIM\Lotto\bin\Debug\Lotto.exe.config
+C:\Users\805-강사\Desktop\PCIM\Lotto\bin\Debug\Lotto.exe
+C:\Users\805-강사\Desktop\PCIM\Lotto\bin\Debug\Lotto.pdb
+C:\Users\805-강사\Desktop\PCIM\Lotto\obj\Debug\Lotto.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\Lotto\obj\Debug\Lotto.Form1.resources
+C:\Users\805-강사\Desktop\PCIM\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+C:\Users\805-강사\Desktop\PCIM\Lotto\obj\Debug\Lotto.csproj.GenerateResource.cache
+C:\Users\805-강사\Desktop\PCIM\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\Lotto\obj\Debug\Lotto.exe
+C:\Users\805-강사\Desktop\PCIM\Lotto\obj\Debug\Lotto.pdb
+C:\Users\805-강사\Desktop\PCIM\Lotto\obj\Debug\Lotto.exe.config

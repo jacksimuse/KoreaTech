@@ -1,0 +1,11 @@
+C:\Users\805-강사\Desktop\PCIM\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\805-강사\Desktop\PCIM\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\805-강사\Desktop\PCIM\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\805-강사\Desktop\PCIM\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\Inheritance\obj\Debug\Inheritance.Form1.resources
+C:\Users\805-강사\Desktop\PCIM\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+C:\Users\805-강사\Desktop\PCIM\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.cache
+C:\Users\805-강사\Desktop\PCIM\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\805-강사\Desktop\PCIM\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\805-강사\Desktop\PCIM\Inheritance\obj\Debug\Inheritance.exe.config

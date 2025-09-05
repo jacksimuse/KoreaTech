@@ -1,0 +1,11 @@
+C:\Users\805-강사\Desktop\PCIM\Method\bin\Debug\Method.exe.config
+C:\Users\805-강사\Desktop\PCIM\Method\bin\Debug\Method.exe
+C:\Users\805-강사\Desktop\PCIM\Method\bin\Debug\Method.pdb
+C:\Users\805-강사\Desktop\PCIM\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\Method\obj\Debug\Method.Form1.resources
+C:\Users\805-강사\Desktop\PCIM\Method\obj\Debug\Method.Properties.Resources.resources
+C:\Users\805-강사\Desktop\PCIM\Method\obj\Debug\Method.csproj.GenerateResource.cache
+C:\Users\805-강사\Desktop\PCIM\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\Method\obj\Debug\Method.exe
+C:\Users\805-강사\Desktop\PCIM\Method\obj\Debug\Method.pdb
+C:\Users\805-강사\Desktop\PCIM\Method\obj\Debug\Method.exe.config
