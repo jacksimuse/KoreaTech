@@ -1,0 +1,8 @@
+C:\Users\805-강사\Desktop\PCIM\Operator\bin\Debug\Operator.exe.config
+C:\Users\805-강사\Desktop\PCIM\Operator\bin\Debug\Operator.exe
+C:\Users\805-강사\Desktop\PCIM\Operator\bin\Debug\Operator.pdb
+C:\Users\805-강사\Desktop\PCIM\Operator\obj\Debug\Operator.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\Operator\obj\Debug\Operator.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\Operator\obj\Debug\Operator.exe
+C:\Users\805-강사\Desktop\PCIM\Operator\obj\Debug\Operator.pdb
+C:\Users\805-강사\Desktop\PCIM\Operator\obj\Debug\Operator.exe.config

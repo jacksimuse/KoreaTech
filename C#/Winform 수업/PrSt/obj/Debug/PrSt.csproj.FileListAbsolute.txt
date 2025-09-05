@@ -1,0 +1,11 @@
+C:\Users\805-강사\Desktop\PCIM\PrSt\bin\Debug\PrSt.exe.config
+C:\Users\805-강사\Desktop\PCIM\PrSt\bin\Debug\PrSt.exe
+C:\Users\805-강사\Desktop\PCIM\PrSt\bin\Debug\PrSt.pdb
+C:\Users\805-강사\Desktop\PCIM\PrSt\obj\Debug\PrSt.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\PrSt\obj\Debug\PrSt.Form1.resources
+C:\Users\805-강사\Desktop\PCIM\PrSt\obj\Debug\PrSt.Properties.Resources.resources
+C:\Users\805-강사\Desktop\PCIM\PrSt\obj\Debug\PrSt.csproj.GenerateResource.cache
+C:\Users\805-강사\Desktop\PCIM\PrSt\obj\Debug\PrSt.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\PrSt\obj\Debug\PrSt.exe
+C:\Users\805-강사\Desktop\PCIM\PrSt\obj\Debug\PrSt.pdb
+C:\Users\805-강사\Desktop\PCIM\PrSt\obj\Debug\PrSt.exe.config

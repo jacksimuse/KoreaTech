@@ -1,0 +1,11 @@
+C:\Users\805-강사\Desktop\PCIM\ObjectCasting\bin\Debug\ObjectCasting.exe.config
+C:\Users\805-강사\Desktop\PCIM\ObjectCasting\bin\Debug\ObjectCasting.exe
+C:\Users\805-강사\Desktop\PCIM\ObjectCasting\bin\Debug\ObjectCasting.pdb
+C:\Users\805-강사\Desktop\PCIM\ObjectCasting\obj\Debug\ObjectCasting.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\ObjectCasting\obj\Debug\ObjectCasting.Form1.resources
+C:\Users\805-강사\Desktop\PCIM\ObjectCasting\obj\Debug\ObjectCasting.Properties.Resources.resources
+C:\Users\805-강사\Desktop\PCIM\ObjectCasting\obj\Debug\ObjectCasting.csproj.GenerateResource.cache
+C:\Users\805-강사\Desktop\PCIM\ObjectCasting\obj\Debug\ObjectCasting.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\ObjectCasting\obj\Debug\ObjectCasting.exe
+C:\Users\805-강사\Desktop\PCIM\ObjectCasting\obj\Debug\ObjectCasting.pdb
+C:\Users\805-강사\Desktop\PCIM\ObjectCasting\obj\Debug\ObjectCasting.exe.config
