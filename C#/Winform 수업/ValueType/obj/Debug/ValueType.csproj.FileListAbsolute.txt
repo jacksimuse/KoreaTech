@@ -1,0 +1,11 @@
+C:\Users\805-강사\Desktop\PCIM\ValueType\bin\Debug\ValueType.exe.config
+C:\Users\805-강사\Desktop\PCIM\ValueType\bin\Debug\ValueType.exe
+C:\Users\805-강사\Desktop\PCIM\ValueType\bin\Debug\ValueType.pdb
+C:\Users\805-강사\Desktop\PCIM\ValueType\obj\Debug\ValueType.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\ValueType\obj\Debug\ValueType.Form1.resources
+C:\Users\805-강사\Desktop\PCIM\ValueType\obj\Debug\ValueType.Properties.Resources.resources
+C:\Users\805-강사\Desktop\PCIM\ValueType\obj\Debug\ValueType.csproj.GenerateResource.cache
+C:\Users\805-강사\Desktop\PCIM\ValueType\obj\Debug\ValueType.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\ValueType\obj\Debug\ValueType.exe
+C:\Users\805-강사\Desktop\PCIM\ValueType\obj\Debug\ValueType.pdb
+C:\Users\805-강사\Desktop\PCIM\ValueType\obj\Debug\ValueType.exe.config

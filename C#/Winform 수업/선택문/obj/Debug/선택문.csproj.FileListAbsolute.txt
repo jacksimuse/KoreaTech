@@ -1,0 +1,11 @@
+C:\Users\805-강사\Desktop\PCIM\선택문\bin\Debug\선택문.exe.config
+C:\Users\805-강사\Desktop\PCIM\선택문\bin\Debug\선택문.exe
+C:\Users\805-강사\Desktop\PCIM\선택문\bin\Debug\선택문.pdb
+C:\Users\805-강사\Desktop\PCIM\선택문\obj\Debug\선택문.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\선택문\obj\Debug\선택문.Form1.resources
+C:\Users\805-강사\Desktop\PCIM\선택문\obj\Debug\선택문.Properties.Resources.resources
+C:\Users\805-강사\Desktop\PCIM\선택문\obj\Debug\선택문.csproj.GenerateResource.cache
+C:\Users\805-강사\Desktop\PCIM\선택문\obj\Debug\선택문.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\선택문\obj\Debug\선택문.exe
+C:\Users\805-강사\Desktop\PCIM\선택문\obj\Debug\선택문.pdb
+C:\Users\805-강사\Desktop\PCIM\선택문\obj\Debug\선택문.exe.config
