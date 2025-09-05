@@ -1,0 +1,8 @@
+C:\Users\805-강사\Desktop\PCIM\test5\bin\Debug\test5.exe.config
+C:\Users\805-강사\Desktop\PCIM\test5\bin\Debug\test5.exe
+C:\Users\805-강사\Desktop\PCIM\test5\bin\Debug\test5.pdb
+C:\Users\805-강사\Desktop\PCIM\test5\obj\Debug\test5.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\test5\obj\Debug\test5.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\test5\obj\Debug\test5.exe
+C:\Users\805-강사\Desktop\PCIM\test5\obj\Debug\test5.pdb
+C:\Users\805-강사\Desktop\PCIM\test5\obj\Debug\test5.exe.config

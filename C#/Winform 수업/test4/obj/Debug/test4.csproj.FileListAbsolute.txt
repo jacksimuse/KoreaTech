@@ -1,0 +1,8 @@
+C:\Users\805-강사\Desktop\PCIM\test4\bin\Debug\test4.exe.config
+C:\Users\805-강사\Desktop\PCIM\test4\bin\Debug\test4.exe
+C:\Users\805-강사\Desktop\PCIM\test4\bin\Debug\test4.pdb
+C:\Users\805-강사\Desktop\PCIM\test4\obj\Debug\test4.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\test4\obj\Debug\test4.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\test4\obj\Debug\test4.exe
+C:\Users\805-강사\Desktop\PCIM\test4\obj\Debug\test4.pdb
+C:\Users\805-강사\Desktop\PCIM\test4\obj\Debug\test4.exe.config

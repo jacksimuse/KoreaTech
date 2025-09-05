@@ -1,0 +1,8 @@
+C:\Users\805-강사\Desktop\PCIM\test3\bin\Debug\test3.exe.config
+C:\Users\805-강사\Desktop\PCIM\test3\bin\Debug\test3.exe
+C:\Users\805-강사\Desktop\PCIM\test3\bin\Debug\test3.pdb
+C:\Users\805-강사\Desktop\PCIM\test3\obj\Debug\test3.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\test3\obj\Debug\test3.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\test3\obj\Debug\test3.exe
+C:\Users\805-강사\Desktop\PCIM\test3\obj\Debug\test3.pdb
+C:\Users\805-강사\Desktop\PCIM\test3\obj\Debug\test3.exe.config
