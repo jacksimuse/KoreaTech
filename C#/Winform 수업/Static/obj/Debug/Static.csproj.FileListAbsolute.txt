@@ -1,0 +1,11 @@
+C:\Users\805-강사\Desktop\PCIM\Static\bin\Debug\Static.exe.config
+C:\Users\805-강사\Desktop\PCIM\Static\bin\Debug\Static.exe
+C:\Users\805-강사\Desktop\PCIM\Static\bin\Debug\Static.pdb
+C:\Users\805-강사\Desktop\PCIM\Static\obj\Debug\Static.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\Static\obj\Debug\Static.Form1.resources
+C:\Users\805-강사\Desktop\PCIM\Static\obj\Debug\Static.Properties.Resources.resources
+C:\Users\805-강사\Desktop\PCIM\Static\obj\Debug\Static.csproj.GenerateResource.cache
+C:\Users\805-강사\Desktop\PCIM\Static\obj\Debug\Static.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\Static\obj\Debug\Static.exe
+C:\Users\805-강사\Desktop\PCIM\Static\obj\Debug\Static.pdb
+C:\Users\805-강사\Desktop\PCIM\Static\obj\Debug\Static.exe.config

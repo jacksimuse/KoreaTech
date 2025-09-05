@@ -1,0 +1,11 @@
+C:\Users\805-강사\Desktop\PCIM\StringArray\bin\Debug\StringArray.exe.config
+C:\Users\805-강사\Desktop\PCIM\StringArray\bin\Debug\StringArray.exe
+C:\Users\805-강사\Desktop\PCIM\StringArray\bin\Debug\StringArray.pdb
+C:\Users\805-강사\Desktop\PCIM\StringArray\obj\Debug\StringArray.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\StringArray\obj\Debug\StringArray.Form1.resources
+C:\Users\805-강사\Desktop\PCIM\StringArray\obj\Debug\StringArray.Properties.Resources.resources
+C:\Users\805-강사\Desktop\PCIM\StringArray\obj\Debug\StringArray.csproj.GenerateResource.cache
+C:\Users\805-강사\Desktop\PCIM\StringArray\obj\Debug\StringArray.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\StringArray\obj\Debug\StringArray.exe
+C:\Users\805-강사\Desktop\PCIM\StringArray\obj\Debug\StringArray.pdb
+C:\Users\805-강사\Desktop\PCIM\StringArray\obj\Debug\StringArray.exe.config

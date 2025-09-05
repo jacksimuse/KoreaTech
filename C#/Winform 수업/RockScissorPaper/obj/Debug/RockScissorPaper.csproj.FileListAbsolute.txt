@@ -1,0 +1,11 @@
+C:\Users\805-강사\Desktop\PCIM\RockScissorPaper\bin\Debug\RockScissorPaper.exe.config
+C:\Users\805-강사\Desktop\PCIM\RockScissorPaper\bin\Debug\RockScissorPaper.exe
+C:\Users\805-강사\Desktop\PCIM\RockScissorPaper\bin\Debug\RockScissorPaper.pdb
+C:\Users\805-강사\Desktop\PCIM\RockScissorPaper\obj\Debug\RockScissorPaper.csproj.AssemblyReference.cache
+C:\Users\805-강사\Desktop\PCIM\RockScissorPaper\obj\Debug\RockScissorPaper.Form1.resources
+C:\Users\805-강사\Desktop\PCIM\RockScissorPaper\obj\Debug\RockScissorPaper.Properties.Resources.resources
+C:\Users\805-강사\Desktop\PCIM\RockScissorPaper\obj\Debug\RockScissorPaper.csproj.GenerateResource.cache
+C:\Users\805-강사\Desktop\PCIM\RockScissorPaper\obj\Debug\RockScissorPaper.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Desktop\PCIM\RockScissorPaper\obj\Debug\RockScissorPaper.exe
+C:\Users\805-강사\Desktop\PCIM\RockScissorPaper\obj\Debug\RockScissorPaper.pdb
+C:\Users\805-강사\Desktop\PCIM\RockScissorPaper\obj\Debug\RockScissorPaper.exe.config
