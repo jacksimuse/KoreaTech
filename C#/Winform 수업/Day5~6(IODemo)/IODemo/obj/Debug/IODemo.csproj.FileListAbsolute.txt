@@ -1,0 +1,12 @@
+C:\Users\805-강사\Downloads\한기대 IM공유(예제)\Day5~6(IODemo)\IODemo\bin\Debug\IODemo.exe.config
+C:\Users\805-강사\Downloads\한기대 IM공유(예제)\Day5~6(IODemo)\IODemo\bin\Debug\IODemo.exe
+C:\Users\805-강사\Downloads\한기대 IM공유(예제)\Day5~6(IODemo)\IODemo\bin\Debug\IODemo.pdb
+C:\Users\805-강사\Downloads\한기대 IM공유(예제)\Day5~6(IODemo)\IODemo\obj\Debug\IODemo.csproj.AssemblyReference.cache
+C:\Users\805-강사\Downloads\한기대 IM공유(예제)\Day5~6(IODemo)\IODemo\obj\Debug\IODemo.Form1.resources
+C:\Users\805-강사\Downloads\한기대 IM공유(예제)\Day5~6(IODemo)\IODemo\obj\Debug\IODemo.Properties.Resources.resources
+C:\Users\805-강사\Downloads\한기대 IM공유(예제)\Day5~6(IODemo)\IODemo\obj\Debug\IODemo.csproj.GenerateResource.cache
+C:\Users\805-강사\Downloads\한기대 IM공유(예제)\Day5~6(IODemo)\IODemo\obj\Debug\IODemo.csproj.CoreCompileInputs.cache
+C:\Users\805-강사\Downloads\한기대 IM공유(예제)\Day5~6(IODemo)\IODemo\obj\Debug\IODemo.exe
+C:\Users\805-강사\Downloads\한기대 IM공유(예제)\Day5~6(IODemo)\IODemo\obj\Debug\IODemo.pdb
+C:\Users\805-강사\Downloads\한기대 IM공유(예제)\Day5~6(IODemo)\IODemo\bin\Debug\NMCMotionSDK.cs
+C:\Users\805-강사\Downloads\한기대 IM공유(예제)\Day5~6(IODemo)\IODemo\obj\Debug\IODemo.exe.config
